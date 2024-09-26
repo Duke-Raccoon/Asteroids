@@ -1,2 +1,2 @@
 # Asteroids
-mini game created by python
+mini game created with python
